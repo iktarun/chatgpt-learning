@@ -19,3 +19,6 @@
    <code>node fetchUsingCommandLine.js</code>
 2. Enter the text in the console and hit enter
 3. Response will come
+
+
+[![Watch the video](https://www.instagram.com/reel/CsGJm3gp_ko/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
